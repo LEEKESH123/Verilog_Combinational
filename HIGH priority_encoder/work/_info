@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Dell/Desktop/Gvim/combinational/High pencoder
+vencoder
+Z0 !s110 1755972035
+!i10b 1
+!s100 g][8?V<_oeI>;7YDXiGJ]3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IA9Lk7^[jChdm<Z8^znA;a0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Gvim/combinational/HIGH priority_encoder
+w1754041876
+8pencoder.v
+Fpencoder.v
+!i122 0
+L0 6 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755972035.000000
+!s107 pencoder.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R0
+!i10b 1
+!s100 Hk;M;]_1MN`JgB?j15ERd2
+R1
+IJC3g]A:9S>Ld<0@VTB`;b1
+R2
+R3
+w1754041753
+8tb.v
+Ftb.v
+!i122 0
+L0 2 13
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 pencoder.v|tb.v|
+R6
+!i113 1
+R7
