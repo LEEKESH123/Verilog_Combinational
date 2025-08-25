@@ -1,0 +1,8 @@
+module mux_81(i,s,y);
+	input [7:0] i;
+	input [2:0] s;
+	output y;
+assign y = ((~s[3]&~s[2]&~s[1]&i0)|(~s[3]&~s[2]&s[1]&i1)|(~s[3]&s[2]&~s[1]&i2)|(~s[3]&s[2]&s[1]&i3)|(s[3]&~s[2]&~s[3]&i4)|(s[3]&~s[2]&s[1]&i5)|(s[3]&~s[2]&~s[1]&i6)|(s[3]&s[2]&s[1]&i7)
+	
+	endmodule
+
